@@ -1,7 +1,3 @@
-# Hi there 👋
-
-I'm Robson, a Software Developer from Brazil. 
-
 ## 💻 Technologies & Tools
 
 Here are some of the technologies and tools I worked with in my projects:
